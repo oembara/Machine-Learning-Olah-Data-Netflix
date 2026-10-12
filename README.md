@@ -1,7 +1,7 @@
 # Machine-Learning-Olah-Data-Netflix
 Kode jupyter notebook saya yang digunakan untuk olah data Netlix
 
-# Machine Learning pada Dataset Netflix 
+# Link Dataset Machine Learning pada Dataset Netflix:
 https://www.kaggle.com/datasets/paramvir705/netflix-dataset
 
 ## Deskripsi Proyek
