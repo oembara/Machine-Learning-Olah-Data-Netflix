@@ -1,12 +1,12 @@
 # Machine-Learning-Olah-Data-Netflix
 Kode jupyter notebook saya yang digunakan untuk olah data Netlix
 
-# Link Dataset Machine Learning pada Dataset Netflix:
-https://www.kaggle.com/datasets/paramvir705/netflix-dataset
+# Machine Learning pada Dataset Netflix
 
 ## Deskripsi Proyek
 
-Proyek ini menggunakan dataset Netflix Titles untuk melakukan analisis data dan membangun model Machine Learning yang dapat mengklasifikasikan jenis konten Netflix menjadi Movie atau TV Show.
+Proyek ini menggunakan dataset Netflix Titles untuk melakukan analisis data dan membangun model Machine Learning yang dapat mengklasifikasikan jenis konten Netflix menjadi Movie atau TV Show. 
+Berikut adalah link dataset Netflix yang kami olah: https://www.kaggle.com/datasets/paramvir705/netflix-dataset
 
 Proses yang dilakukan meliputi pemuatan dataset, pembersihan data, pembentukan fitur, eksplorasi data, pembagian data latih dan data uji, pelatihan beberapa algoritma klasifikasi, evaluasi model, analisis fitur penting, penyimpanan model, serta peninjauan data berbentuk JSON.
 
